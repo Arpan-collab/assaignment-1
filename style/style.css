@@ -1,0 +1,115 @@
+html{
+    margin: 30px;
+    
+}
+.bg-img{
+    background-image: url(../assets/Hero-bg.png);
+    margin: 45px 20px;
+    
+}
+.img-src{
+    text-align: center;
+
+}
+.title{
+    text-align: center;
+    font-size: 48px;
+    font-family: Azeret Mono;
+    margin: 24px 0px;
+}
+.text-font{
+    font-family: Azeret Mono;
+    font-size: 16px;
+    text-align: center;
+    
+}
+.txt-ft{
+    font-family: Azeret Mono; 
+    color: rgba(13, 19, 33, 0.7);
+}
+.btn{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    height: 100px;
+    width: 300px;
+    padding: 24px 24px 24px 24px;
+    font-size: 20px;
+    border-radius: 8px;
+    font-family: Azeret Mono;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 32px;
+    }
+.buton{
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    width: 150px;
+    height: 48px;
+    
+}
+.align{
+    text-align: center;
+}
+.second-part{
+    margin-top: 150px;
+}
+.gh{
+    text-align: center;
+    margin-top: 32px;
+}
+#go-right{
+    display: flex;
+ 
+}
+.pg{
+    font-size: 24px;
+}
+.go-right{
+    display: flex;
+    margin-top: 96px;
+}
+.tumi{
+    display: flex;
+    gap: 50px;
+}
+.flexhoba{
+    display: flex;
+}
+.merefelbo{
+    margin-left: 50px;
+}
+.mazkane{
+    text-align: center;
+}
+.mahbub-vaiya{
+    margin-top: 50px;
+    text-align: center;
+    font-family: Azeret Mono;
+}
+.ki{
+    text-align: right;
+}
+.im{
+    text-align: right;
+    justify-content:right;
+}
+#id{
+    font-size: 16px;
+}
+.obstha{
+    display: flex;
+    justify-content: space-evenly;
+}
+.ar{
+    background-image: url(../assets/handshake.jpg);
+    background-repeat: no-repeat;
+    height: 50px;
+    width: fit-content;
+ 
+}
+#text{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
